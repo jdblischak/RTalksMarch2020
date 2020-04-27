@@ -1,6 +1,10 @@
 # R Lighting Talks for March 2020 Meetings
 [Cleveland R User Group](http://meetu.ps/c/q7Xn/16P01/a)
 
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdblischak/RTalksMarch2020/master?urlpath=rstudio)
+<!-- badges: end -->
+  
 1. Pick a data set from below
 2. Do something interesting with it:
   * create some visualizations that tell a story about the data
